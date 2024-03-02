@@ -1,0 +1,29 @@
+#root {
+  /*max-width: 1280px;*/
+  /*margin: 0 auto;*/
+  margin: 0 auto;
+  text-align: center;
+}
+
+body {
+    font-family: "Exo 2", sans-serif;
+    background: rgb(63, 161, 251);
+    background: linear-gradient(
+            142deg,
+            rgba(63, 161, 251, 1) 0%,
+            rgba(252, 70, 168, 1) 100%
+    );
+}
+
+.wrapper {
+  width: 100%;
+  .content {
+    gap: 10px 10px;
+    display: grid;
+  }
+  margin-bottom: 100px;
+}
+
+.hero {
+  grid-area: 1 / 1 / 2 / 6;
+}

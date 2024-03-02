@@ -1,0 +1,12 @@
+.viewButton {
+    background-color: #24a0ed;
+    color: white;
+    padding: 15px 45px;
+    box-shadow: 0 15px 25px #817c7c33;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.buttonContainer {
+    align-content: center;
+}
