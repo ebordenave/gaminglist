@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Gaming List*
 
 Submitted by: **Edward Bordenave**
 
@@ -26,10 +26,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://www.loom.com/share/49b013c8710d4f2f9bf1f13cd1254d82?sid=d14c34a7-c8a0-46cf-9f48-53296ed10456
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...
+GIF created with Loom
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
