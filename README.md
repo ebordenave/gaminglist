@@ -28,8 +28,10 @@ Here's a walkthrough of implemented required features:
 
 https://www.loom.com/share/49b013c8710d4f2f9bf1f13cd1254d82?sid=d14c34a7-c8a0-46cf-9f48-53296ed10456
 
+https://imgur.com/vbLPK3G.gif
+
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Loom
+https://imgur.com/vbLPK3G.gif
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
